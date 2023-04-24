@@ -85,15 +85,15 @@ By setting up a crontab, your Unipd Moodle Bot will run every half hour between 
 
 ### Information types of Moodle
 
-- [ ] folder
-- [ ] forum
+- [x] folder
+- [x] forum
 - [ ] orario degli esami
 - [ ] ...
 
 ### Connected platform
 
-- [ ] WhatsApp
-- [ ] Email
+- [x] WhatsApp
+- [x] Email
 - [ ] Telegram
 - [ ] Discord
 

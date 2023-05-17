@@ -1,5 +1,5 @@
 
-from settings import folders, forums, login_info, paths, me
+from settings_win import folders, forums, login_info, paths, me
 
 # Prepare for selenium
 from selenium import webdriver
@@ -33,7 +33,7 @@ s = Service(paths['chromedriver_path'])
 options = webdriver.ChromeOptions()
 options.add_argument(f"--user-data-dir={paths['chrome_dir']}")
 options.add_argument(f"--profile-directory={paths['chrome_profile']}")
-options.add_argument('--lang=es')
+options.add_argument('--lang=en')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 options.add_argument('--disable-gpu')
@@ -88,7 +88,7 @@ for folder in folders:
 
     # Enter the folder page of the course and list all files
     driver.get(folder['folder_url'])
-    # driver.get_screenshot_as_file('moodlecoursepage.png') # To check if enter successful
+    # driver.get_screenshot_as_file('moodlecoursepage.png') 
     files = driver.find_elements(By.CLASS_NAME, 'fp-filename')
     new_folder = [file.text for file in files]
     print("newfolder:", new_folder)

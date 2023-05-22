@@ -1,5 +1,7 @@
 # Unipd Moodle Bot
 
+!!!new version is building, see [refactor](https://github.com/Gexi0619/UnipdMoodleBot/tree/refactor) branch
+
 When the professor uploads files in the folder of the Moodle course page, or when the professor sends a notification in the forum of the Moodle course page, the bot will send a notification message to the corresponding WhatsApp course group or individual.
 
 ## Prerequisites

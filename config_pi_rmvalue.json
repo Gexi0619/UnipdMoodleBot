@@ -1,0 +1,68 @@
+{
+    "folders": [
+        {
+            "folder_name": "",
+            "folder_url": "",
+            "folder_path": "",
+            "group_name": ""
+        },
+        {
+            "folder_name": "",
+            "folder_url": "",
+            "folder_path": "",
+            "group_name": ""
+        },
+        {
+            "folder_name": "",
+            "folder_url": "",
+            "folder_path": "",
+            "group_name": ""
+        }
+    ],
+    "forums": [
+        {
+            "forum_name": "",
+            "forum_url": "",
+            "forum_path": "",
+            "group_name": ""
+        },
+        {
+            "forum_name": "",
+            "forum_url": "",
+            "forum_path": "",
+            "group_name": ""
+        },
+        {
+            "forum_name": "",
+            "forum_url": "",
+            "forum_path": "",
+            "group_name": ""
+        },
+        {
+            "forum_name": "",
+            "forum_url": "",
+            "forum_path": "",
+            "group_name": ""
+        }
+    ],
+    "login_info": {
+        "username": "",
+        "password": "",
+        "usertype": "",
+        "my_name": ""
+    },
+    "paths": {
+        "chromedriver_path": "",
+        "chrome_dir": "",
+        "chrome_profile": ""
+    },
+    "me": {
+        "name_whatsapp": "",
+        "sender_email": "",
+        "receiver_email": "",
+        "smtp_server": "",
+        "smtp_port": "",
+        "smtp_username": "",
+        "smtp_password": ""
+    }
+}

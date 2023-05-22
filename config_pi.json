@@ -1,0 +1,68 @@
+{
+  "folders": [
+    {
+      "folder_name": "storiadellartemodernaavanzato2223_folder",
+      "folder_url": "https://ssu.elearning.unipd.it/mod/folder/view.php?id=335724",
+      "folder_path": "/home/sgx/moodlebot/storiadellartemodernaavanzato2223/folder.txt",
+      "group_name": "Moodlebot测试群"
+    },
+    {
+      "folder_name": "iconografiaeiconologia2223_folder",
+      "folder_url": "https://ssu.elearning.unipd.it/mod/folder/view.php?id=336914",
+      "folder_path": "/home/sgx/moodlebot/iconografiaeiconologia2223/folder.txt",
+      "group_name": "Moodlebot测试群"
+    },
+    {
+      "folder_name": "storiadellacriticadarte_folder",
+      "folder_url": "https://ssu.elearning.unipd.it/mod/folder/view.php?id=335397",
+      "folder_path": "/home/sgx/moodlebot/storiadellacriticadarte2223/folder.txt",
+      "group_name": "Moodlebot测试群"
+    }
+  ],
+  "forums": [
+    {
+      "forum_name": "storiadellartemodernaavanzato2223_forum",
+      "forum_url": "https://ssu.elearning.unipd.it/mod/forum/view.php?id=335714",
+      "forum_path": "/home/sgx/moodlebot/storiadellartemodernaavanzato2223/forum.txt",
+      "group_name": "Moodlebot测试群"
+    },
+    {
+      "forum_name": "iconografiaeiconologia2223_forum",
+      "forum_url": "https://ssu.elearning.unipd.it/mod/forum/view.php?id=336904",
+      "forum_path": "/home/sgx/moodlebot/iconografiaeiconologia2223/forum.txt",
+      "group_name": "Moodlebot测试群"
+    },
+    {
+      "forum_name": "storiadellacriticadarte2223_forum",
+      "forum_url": "https://ssu.elearning.unipd.it/mod/forum/view.php?id=335387",
+      "forum_path": "/home/sgx/moodlebot/storiadellacriticadarte2223/forum.txt",
+      "group_name": "Moodlebot测试群"
+    },
+    {
+      "forum_name": "storiadellacittaedelterritorio2223_forum",
+      "forum_url": "https://ssu.elearning.unipd.it/mod/forum/view.php?id=332404",
+      "forum_path": "/home/sgx/moodlebot/storiadellacittaedelterritorio2223/forum.txt",
+      "group_name": "Moodlebot测试群"
+    }
+  ],
+  "login_info": {
+    "username": "gexi.sun",
+    "password": "XIgesun2304",
+    "usertype": "radio2",
+    "my_name": "GEXI SUN"
+  },
+  "paths": {
+    "chromedriver_path": "/usr/lib/chromium-browser/chromedriver",
+    "chrome_dir": "/home/sgx/.config/chromium",
+    "chrome_profile": "Default"
+  },
+  "me": {
+    "name_whatsapp": "Gexi Sun",
+    "sender_email": "sungexi@gmail.com",
+    "receiver_email": "sungexi@gmail.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": "587",
+    "smtp_username": "sungexi@gmail.com",
+    "smtp_password": "eyttrzbanzjoxqpx"
+  }
+}
